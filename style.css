@@ -627,19 +627,20 @@ footer {
 
 .footer--btn > a:nth-child(1) {
     padding: 12px 12px 12px 61px;
-    background: linear-gradient(270deg, #ef5559 0%, #3e82be 100%);
+    background: rgba(238, 85, 89, 1);
     display: inline-flex;
     gap: 38px;
     justify-content: center;
     align-items: center;
     text-transform: uppercase;
+    border: 1px solid rgba(238, 85, 89, 1);
 }
 
 .footer--btn > a:nth-child(2) {
     padding: 12px 12px 12px 61px;
-    border: 1px solid rgba(238, 85, 89, 1);
     color: rgba(238, 85, 89, 1);
-    background-color: rgba(253, 230, 230, 1);
+    background: linear-gradient(270deg, #ef5559 0%, #3e82be 100%);
+    color: rgba(255, 255, 255, 1);
     display: inline-flex;
     gap: 38px;
     justify-content: center;
