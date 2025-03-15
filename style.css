@@ -626,7 +626,7 @@ footer {
 }
 
 .footer--btn > a:nth-child(1) {
-    padding: 12px 12px 12px 61px;
+    padding: 11px 13px 12px 43px;
     background: rgba(238, 85, 89, 1);
     display: inline-flex;
     gap: 38px;
@@ -637,7 +637,7 @@ footer {
 }
 
 .footer--btn > a:nth-child(2) {
-    padding: 12px 12px 12px 61px;
+    padding: 11px 13px 12px 43px;
     color: rgba(238, 85, 89, 1);
     background: linear-gradient(270deg, #ef5559 0%, #3e82be 100%);
     color: rgba(255, 255, 255, 1);
